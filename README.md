@@ -1,10 +1,9 @@
 # Projeto Formulário
-- Esse é um projeto praticar , com intuito de aprender e entender o que significa cada tag
-- O projeto é simples , mais com grande valia.
+-Um projeto prático com o objetivo de aprender e entender o uso de cada tag HTML. Apesar de simples, é de grande valor para o desenvolvimento de habilidades front-end.
 
 ## Tecnologias 
 - HTML
 - CSS
 
 ### Desenvolvedor
-- Roberto Jr ( Iniciando no desenvolvimento front-end 
+- Roberto Jr ( Iniciando no desenvolvimento front-end )
